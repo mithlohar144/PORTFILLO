@@ -22,21 +22,3 @@ function closemenu() {
     sideMenu.style.right = "-200px";
 }
 
-
-// var sideMenu = document.getElementByI/d("sidemenu");
-// var isOpen = false;
-
-// function toggleMenu(){
-//     if(isOpen){
-//         sideMenu.style.right = "-200px"; // Close the menu
-//     } else {
-//         sideMenu.style.right = "0"; // Open the menu
-//     }
-//     isOpen = !isOpen; // Toggle the state
-// }
-
-// // Adjust the close functionality for smaller screens
-// document.querySelector(".fa-times").addEventListener("click", function() {
-//     sideMenu.style.right = "-200px"; // Close the menu when close icon is clicked
-//     isOpen = false;
-// });
